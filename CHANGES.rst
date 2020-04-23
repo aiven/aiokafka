@@ -1,6 +1,8 @@
 CHANGES
 -------
 
+
+
 590.feature
 Upgrade to kafka-python version 2.0.0
 
